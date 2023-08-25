@@ -13,6 +13,7 @@ import NavBar from "./sections/NavBar";
 import Hero from "./sections/Hero";
 import About from "./sections/About";
 import Work from "./sections/Work";
+import Reflexion from "./sections/Reflexion";
 
 export default function Home() {
 
@@ -68,6 +69,7 @@ export default function Home() {
                 <Hero />
                 <About />
                 <Work />
+                <Reflexion/>
             </main>
             {/*</ScrollerMotion>*/}
         </>

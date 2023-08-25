@@ -18,7 +18,7 @@ export const projects = [
         id: 0,
         name: "Viernes 19 de Mayo",
         description:
-            "Primera clase, se vieron conceptos generales del curso y se conversó un poco acerca de los temas que se van a estar cubriendo.",
+            "Primera clase, se vieron conceptos generales del curso y se conversó un poco acerca de los temas que se van a estar cubriendo. Hoy aprendimos de qué trata el curso.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -31,7 +31,7 @@ export const projects = [
         id: 1,
         name: "Viernes 26 de Mayo",
         description:
-            "Realizamos un examen pequeño para dar ideas acerca de la filosofía. El profesor nos brinda conceptos e ideas acerca de la filosofía.El resto de la clase se basó en el profesor explicando diversos puntos acerca de la filosofía a nivel general.",
+            "Realizamos un examen pequeño para dar ideas acerca de la filosofía. El profesor nos brinda conceptos e ideas acerca de la filosofía. Hoy aprendí que existen tantos conceptos como personas lo han estudiado.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -57,7 +57,7 @@ export const projects = [
         id: 3,
         name: "Viernes 9 de Junio",
         description:
-            "Clase virtual, correspondía realizar el primer análisis de película acerca de 'El mundo de Sofia'.",
+            "Clase virtual, correspondía realizar el primer análisis de película acerca de 'El mundo de Sofia'. Hoy aprendí que hay personas que buscan encontrar la verdad acerca de su existencia.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -83,7 +83,7 @@ export const projects = [
         id: 5,
         name: "Viernes 23 de Junio",
         description:
-            "Clase presencial, Vimos la diferencia entre la etica y la moral, la moral se basa en los valores, los principios y creencias de la persona y la ética es el estudio de la moral. Se aclaran puntos sobre el proyecto.",
+            "Clase presencial, Vimos la diferencia entre la etica y la moral. Hoy aprendí que la moral se basa en los valores, los principios y creencias de la persona y la ética es el estudio de la moral.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -96,7 +96,7 @@ export const projects = [
         id: 6,
         name: "Viernes 30 de Junio",
         description:
-            "Clase presencial. Vimos acerca de la filosofía de la ciencia o Epistemología.",
+            "Clase presencial. Vimos acerca de la filosofía de la ciencia o Epistemología. Hoy aprendí que bioética es es la intersección entre la ética y la ciencias de la vida, esto entendiendo el concepto de Biología (carácter de la vida).",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -122,7 +122,7 @@ export const projects = [
         id: 8,
         name: "Viernes 14 de Julio",
         description:
-            "Clase virtual. Análisis de película de 'El hombre bicentenario'.",
+            "Clase virtual. Análisis de película de 'El hombre bicentenario'. Hoy aprendí sobre qué cosas nos hacen ser realmente humanos.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -135,7 +135,7 @@ export const projects = [
         id: 9,
         name: "Viernes 21 de Julio",
         description:
-            "Clase presencial. Se utilizó el espacio en clase para avanzar el trabajo de investigación. El profesor nos señaló varias correciones a realizar en el mismo.",
+            "Clase presencial. Se utilizó el espacio en clase para avanzar el trabajo de investigación. El profesor nos señaló varias correciones a realizar en el mismo. El aprendizaje obtenido fue acerca de cómo debíamos realizar el proyecto correctamente",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -148,7 +148,7 @@ export const projects = [
         id: 10,
         name: "Viernes 28 de Julio",
         description:
-            "Clase presencial. Exposiciones acerca del tema para foro de discusión. Tema correspondido Capitalismo/Comunismo Dictadura/Democracia. Debimos realizar también un comentario en classroom acerca de lo que entendimos.",
+            "Clase presencial. Exposiciones acerca del tema para foro de discusión. Tema correspondido Capitalismo/Comunismo Dictadura/Democracia. Debimos realizar también un comentario en classroom acerca de lo que entendimos. Hoy aprendí más sobre el asunto del aborto, tema expuesto por unos compañeros.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -161,7 +161,7 @@ export const projects = [
         id: 11,
         name: "Viernes 4 de Agosto",
         description:
-            "Clase presencial. Realizamos las presentaciones acerca de las lecturas asignadas. Lectura: aportes de la filosofía al pensamiento crítico. Entrega de infografía de la misma.",
+            "Clase presencial. Realizamos las presentaciones acerca de las lecturas asignadas. Lectura: aportes de la filosofía al pensamiento crítico. Entrega de infografía de la misma. El día de hoy conocí sobre el pensamiento complejo el cuál me llamó la atención.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -174,7 +174,7 @@ export const projects = [
         id: 12,
         name: "Viernes 11 de Agosto",
         description:
-            "Clase presencial, exposiciones acerca del trabajo de investigación.",
+            "Clase presencial, exposiciones acerca del trabajo de investigación. El día de hoy aprendí sobre las tortugas y cómo se ven afectadas por la contaminación.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -187,7 +187,7 @@ export const projects = [
         id: 13,
         name: "Viernes 18 de Agosto",
         description:
-            "Clase virtual, de manera virtual continuamos con las exposiciones faltantes. Última clase del curso.",
+            "Clase virtual, de manera virtual continuamos con las exposiciones faltantes. Última clase del curso. El aprendizaje de hoy fue que debemos de tener una vida más activa.",
         technologies: [],
         techNames: [],
         techLinks: [],
