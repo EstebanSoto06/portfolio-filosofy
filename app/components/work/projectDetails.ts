@@ -16,9 +16,9 @@ export type ProjectProps = {
 export const projects = [
     {
         id: 0,
-        name: "Viernes 19 de Mayo",
+        name: "Jueves 14 de septiembre",
         description:
-            "Primera clase, se vieron conceptos generales del curso y se conversó un poco acerca de los temas que se van a estar cubriendo. Hoy aprendimos de qué trata el curso.",
+            "Presentación del profesor, presentación de los estudiantes, explicación del programa y cronograma del curso. ",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -29,9 +29,9 @@ export const projects = [
     },
     {
         id: 1,
-        name: "Viernes 26 de Mayo",
+        name: "Jueves 21 de septiembre",
         description:
-            "Realizamos un examen pequeño para dar ideas acerca de la filosofía. El profesor nos brinda conceptos e ideas acerca de la filosofía. Hoy aprendí que existen tantos conceptos como personas lo han estudiado.",
+            "Se habla sobre el tema 'Pueblos indígenas de Costa Rica'. El profesor habla de los 2 tipos de independencia por los cuales pasó Costa Rica. También habla del proceso de colonización.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -42,9 +42,9 @@ export const projects = [
     },
     {
         id: 2,
-        name: "Viernes 2 de Junio",
+        name: "Jueves 28 de septiembre",
         description:
-            "Semana U, no hubo clase.",
+            "Tuvimos clase normal donde el profesor realizó una pequeña presentación y hablamos sobre diversos temas.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -55,9 +55,9 @@ export const projects = [
     },
     {
         id: 3,
-        name: "Viernes 9 de Junio",
+        name: "Jueves 5 de octubre",
         description:
-            "Clase virtual, correspondía realizar el primer análisis de película acerca de 'El mundo de Sofia'. Hoy aprendí que hay personas que buscan encontrar la verdad acerca de su existencia.",
+            "El día de hoy cada uno expusimos acerca del personaje que consideramos que forjan parte de la identidad costarricense.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -68,9 +68,9 @@ export const projects = [
     },
     {
         id: 4,
-        name: "Viernes 16 de Junio",
+        name: "Jueves 12 de octubre",
         description:
-            "No hubo clase, el profesor de enfermó.",
+            "Clase virtual asincrónica. Debimo de leer una lectura asignada por el profesor y realizar un informe de esta con un cuadro de doble entrada e una infografía.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -81,9 +81,9 @@ export const projects = [
     },
     {
         id: 5,
-        name: "Viernes 23 de Junio",
+        name: "Jueves 19 de octubre",
         description:
-            "Clase presencial, Vimos la diferencia entre la etica y la moral. Hoy aprendí que la moral se basa en los valores, los principios y creencias de la persona y la ética es el estudio de la moral.",
+            "Otros compañero expusieron acerca del personaje que les correspondia. Tuvimos la visita de uno de ellos de manera presencial y nos contó un poco de lo que nos ha aportado a nosotros como costarricenses.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -94,9 +94,9 @@ export const projects = [
     },
     {
         id: 6,
-        name: "Viernes 30 de Junio",
+        name: "Jueves 26 de octubre",
         description:
-            "Clase presencial. Vimos acerca de la filosofía de la ciencia o Epistemología. Hoy aprendí que bioética es es la intersección entre la ética y la ciencias de la vida, esto entendiendo el concepto de Biología (carácter de la vida).",
+            "Esta semana tuvimos una actividad del departamento de formación humanística. Fue una obra de teatro donde se expresaron algunos temas controversiales sobre los papeles del hombre y la mujer en la sociedad.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -107,9 +107,9 @@ export const projects = [
     },
     {
         id: 7,
-        name: "Viernes 7 de Julio",
+        name: "Jueves 2 de noviembre",
         description:
-            "Cierre de medio año.",
+            "Esta semana se terminaron las presentaciones acerca de los personajes que aportan en la integridad costarricense. El profesor nos habla también de la historiografía de Costa Rica utilizando una presentación.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -120,9 +120,9 @@ export const projects = [
     },
     {
         id: 8,
-        name: "Viernes 14 de Julio",
+        name: "Jueves 9 de noviembre",
         description:
-            "Clase virtual. Análisis de película de 'El hombre bicentenario'. Hoy aprendí sobre qué cosas nos hacen ser realmente humanos.",
+            "Esta semana se realizó la presentación de las generaciones literarias. La generación que le correspondió a mi grupo fue la generación vanguardista. Esta generación fue interesante ya que dió paso a nuevas técnicas literarias.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -133,9 +133,9 @@ export const projects = [
     },
     {
         id: 9,
-        name: "Viernes 21 de Julio",
+        name: "Jueves 16 de noviembre",
         description:
-            "Clase presencial. Se utilizó el espacio en clase para avanzar el trabajo de investigación. El profesor nos señaló varias correciones a realizar en el mismo. El aprendizaje obtenido fue acerca de cómo debíamos realizar el proyecto correctamente",
+            "Se nos proporcionó un espacio para poder practicar la puesta en escena.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -146,9 +146,9 @@ export const projects = [
     },
     {
         id: 10,
-        name: "Viernes 28 de Julio",
+        name: "Jueves 23 de noviembre",
         description:
-            "Clase presencial. Exposiciones acerca del tema para foro de discusión. Tema correspondido Capitalismo/Comunismo Dictadura/Democracia. Debimos realizar también un comentario en classroom acerca de lo que entendimos. Hoy aprendí más sobre el asunto del aborto, tema expuesto por unos compañeros.",
+            "El día de hoy realizamos la puesta en escena. El grupo en el que me encontraba realizó una obra en base al libro de don quijote. Y el otro grupo no recuerdo muy bien pero fue una clase de drama dónde se hablaba de diablo y una muchachita que se casaban.",
         technologies: [],
         techNames: [],
         techLinks: [],
@@ -159,35 +159,9 @@ export const projects = [
     },
     {
         id: 11,
-        name: "Viernes 4 de Agosto",
+        name: "Jueves 30 de noviembre",
         description:
-            "Clase presencial. Realizamos las presentaciones acerca de las lecturas asignadas. Lectura: aportes de la filosofía al pensamiento crítico. Entrega de infografía de la misma. El día de hoy conocí sobre el pensamiento complejo el cuál me llamó la atención.",
-        technologies: [],
-        techNames: [],
-        techLinks: [],
-        github: "",
-        demo: "",
-        image: "/projects/portfolio.webp",
-        available: true,
-    },
-    {
-        id: 12,
-        name: "Viernes 11 de Agosto",
-        description:
-            "Clase presencial, exposiciones acerca del trabajo de investigación. El día de hoy aprendí sobre las tortugas y cómo se ven afectadas por la contaminación.",
-        technologies: [],
-        techNames: [],
-        techLinks: [],
-        github: "",
-        demo: "",
-        image: "/projects/portfolio.webp",
-        available: true,
-    },
-    {
-        id: 13,
-        name: "Viernes 18 de Agosto",
-        description:
-            "Clase virtual, de manera virtual continuamos con las exposiciones faltantes. Última clase del curso. El aprendizaje de hoy fue que debemos de tener una vida más activa.",
+            "Esta semana realizamos la presentación de las fiestas culturales. Estuvo muy interesante el par de presentaciones que logré ver pero por asuntos personales tuve que retirarme temprano de la clase.",
         technologies: [],
         techNames: [],
         techLinks: [],

@@ -25,7 +25,7 @@ const Reflexion = () => {
 
                         <AnimatedBody
                             delay={0.1}
-                            text="Como aprendizaje obtuve muchos conceptos nuevos y algunos viejos se corrigieron ya que tenía la definición erronea sobre algunas cosas como por ejemplo la definción de ética."
+                            text="Como aprendizaje obtuve muchos conceptos nuevos, y mucho contexto historico de como se formó y cómo se conforma la identidad costarricense. Además de también haber visto un poco de la historia literaria de nuestro país y en qué punto nos encontramos ahorita mismo."
                         />
                     </div>
                 </div>
