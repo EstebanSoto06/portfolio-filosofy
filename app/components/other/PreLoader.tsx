@@ -96,7 +96,7 @@ const PreLoader: React.FC = () => {
             >
                 <span>Portafolio</span>
                 <span> / </span>
-                <span>Filosofía de la ciencia</span>
+                <span>Literatura e identidad costarricense</span>
                 <span> / </span>
                 <span>Joan Esteban Soto Ramírez</span>
                 <div className="sub hidden"></div>
