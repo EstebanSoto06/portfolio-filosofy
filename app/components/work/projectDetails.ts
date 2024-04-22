@@ -24,7 +24,7 @@ export const projects = [
         techLinks: [],
         github: "",
         demo: "",
-        image: "/images/25deEnero.jpg",
+        image: "/projects/25deEnero.jpg",
         available: true,
     },
     {
@@ -37,7 +37,7 @@ export const projects = [
         techLinks: [],
         github: "",
         demo: "",
-        image: "/images/1deFebrero.jpg",
+        image: "/projects/1deFebrero.jpg",
         available: true,
     },
     {
@@ -63,7 +63,7 @@ export const projects = [
         techLinks: [],
         github: "",
         demo: "",
-        image: "/images/15deFebrero.jpg",
+        image: "/projects/15deFebrero.jpg",
         available: true,
     },
     {
@@ -76,7 +76,7 @@ export const projects = [
         techLinks: [],
         github: "",
         demo: "",
-        image: "/images/22deFebrero.png",
+        image: "/projects/22deFebrero.png",
         available: true,
     },
     {
@@ -89,7 +89,7 @@ export const projects = [
         techLinks: [],
         github: "",
         demo: "",
-        image: "/images/29deFebrero.jpeg",
+        image: "/projects/29deFebrero.jpeg",
         available: true,
     },
     {
@@ -115,7 +115,7 @@ export const projects = [
         techLinks: [],
         github: "",
         demo: "",
-        image: "/images/10deMarzo.jpg",
+        image: "/projects/10deMarzo.jpg",
         available: true,
     },
     {
@@ -128,7 +128,7 @@ export const projects = [
         techLinks: [],
         github: "",
         demo: "",
-        image: "/images/14deMarzo.jpg",
+        image: "/projects/14deMarzo.jpg",
         available: true,
     },
     {
@@ -154,7 +154,7 @@ export const projects = [
         techLinks: [],
         github: "",
         demo: "",
-        image: "/images/SemanaSanta.jpg",
+        image: "/projects/SemanaSanta.jpg",
         available: true,
     },
     {
@@ -167,7 +167,7 @@ export const projects = [
         techLinks: [],
         github: "",
         demo: "",
-        image: "/images/4deAbril.jpg",
+        image: "/projects/4deAbril.jpg",
         available: true,
     },
     {
@@ -180,7 +180,7 @@ export const projects = [
         techLinks: [],
         github: "",
         demo: "",
-        image: "/images/11deAbril.jpg",
+        image: "/projects/11deAbril.jpg",
         available: true,
     },
     {
