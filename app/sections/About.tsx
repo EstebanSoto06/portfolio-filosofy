@@ -21,7 +21,7 @@ const About = () => {
 
                 <div className="mx-auto flex w-[100%] flex-col lg:max-w-[1200px] lg:flex-row lg:gap-20">
                     <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
-                        <AnimatedBody text="La siguiente página web se realizó con le finalidad de mostrar de manera creativa mi bitácora sobre la clase de literatura e identidad costarricense." />
+                        <AnimatedBody text="La siguiente página web se realizó con le finalidad de mostrar de manera creativa mi cápsula ejecutiva de las actividades y clases llevabas a cabo a lo largo del curso 'Cambio Climático y Resiliencia'." />
 
                         <AnimatedBody
                             delay={0.1}

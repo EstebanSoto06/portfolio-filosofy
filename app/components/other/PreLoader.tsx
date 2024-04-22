@@ -94,9 +94,9 @@ const PreLoader: React.FC = () => {
                     height: "60px",
                 }}
             >
-                <span>Portafolio</span>
+                <span>Cápsula Ejecutiva</span>
                 <span> / </span>
-                <span>Literatura e identidad costarricense</span>
+                <span>Cambio climático y resilIencia FH-404</span>
                 <span> / </span>
                 <span>Joan Esteban Soto Ramírez</span>
                 <div className="sub hidden"></div>

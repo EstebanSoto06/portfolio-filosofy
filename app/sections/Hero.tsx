@@ -17,7 +17,7 @@ const Hero = () => {
                 <div
                     className={`relative flex flex-col items-center justify-center ${spaceGrotesk.className} pointer-events-none`}
                 >
-                    MI PORTAFOLIO - JOAN ESTEBAN SOTO RAMÍREZ
+                    CÁPSULA EJECUTIVA / CAMBIO CLIMÁTICO Y RESILIENCIA - JOAN ESTEBAN SOTO RAMÍREZ
                 </div>
             </div>
         </motion.section>
